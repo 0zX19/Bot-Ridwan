@@ -1,0 +1,1094 @@
+{"level":30,"time":1691859698444,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691859698448,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691859698448,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691859698610,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691859698863,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1691859698865,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1691859698868,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1691859698871,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1691859700215,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1691859700219,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1691859700222,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1691859700224,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1691859700239,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691859700243,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691859700248,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691859700254,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691859700257,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691859700282,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691859700283,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691859700287,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691859700293,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691859700296,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691859700329,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691859700333,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691859700337,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691859700338,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691859700340,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691859700343,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691859700344,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691859700347,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691859700349,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691859700352,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691859700355,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691859700360,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691859700366,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691859700370,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691859700399,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1691859700402,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1691859700410,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1691859700413,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1691859700416,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1691859700418,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1691859700420,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1691859700423,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1691859700425,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1691859700427,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1691859700428,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1691859700430,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1691859700432,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1691859700435,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691859700437,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691859700439,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1691859700442,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping command rep. Disabled!"}
+{"level":20,"time":1691859700445,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1691859700448,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1691859700450,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1691859700452,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1691859700456,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1691859700462,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":20,"time":1691859700468,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1691859700470,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1691859700504,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Loaded 72 commands"}
+{"level":30,"time":1691859700504,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Loaded 54 slash commands"}
+{"level":30,"time":1691859700505,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691859700508,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691859700509,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691859700509,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691859700632,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1691859701462,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: 5.4.0 update is available"}
+{"level":40,"time":1691859701462,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1691859701463,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691859703984,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691859705750,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691859706753,"pid":1872,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691859857495,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691859857500,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691859857500,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691859857738,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691859858083,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1691859858091,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1691859858098,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1691859858102,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1691859859968,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1691859859971,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1691859859974,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1691859859976,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1691859859993,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691859859998,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691859860003,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691859860008,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691859860013,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691859860035,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691859860039,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691859860041,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691859860048,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691859860051,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691859860091,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691859860094,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691859860098,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691859860101,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691859860103,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691859860105,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691859860106,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691859860111,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691859860114,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691859860121,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691859860127,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691859860133,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691859860155,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691859860162,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691859860205,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1691859860213,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1691859860216,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1691859860222,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1691859860223,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1691859860226,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1691859860229,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1691859860231,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1691859860234,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1691859860236,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1691859860237,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1691859860243,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1691859860244,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1691859860247,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1691859860250,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691859860251,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691859860254,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1691859860260,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1691859860262,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1691859860265,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1691859860267,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1691859860272,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1691859860277,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":20,"time":1691859860283,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1691859860286,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1691859860322,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Loaded 75 commands"}
+{"level":30,"time":1691859860324,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Loaded 56 slash commands"}
+{"level":30,"time":1691859860324,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691859860328,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691859860328,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691859860329,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691859860459,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691859861242,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691859861242,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691859862808,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691859864885,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691859865687,"pid":6288,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691860855769,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691860855773,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691860855773,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691860856229,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691860856806,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691860856815,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691860856824,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691860856837,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691860856848,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691860856972,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691860856973,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691860856981,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691860856988,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691860856991,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691860857089,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691860857095,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691860857104,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691860857109,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691860857111,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691860857113,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691860857115,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691860857130,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691860857136,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691860857143,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691860857149,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691860857161,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691860857173,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691860857179,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691860857251,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691860857253,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691860857256,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691860857363,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Loaded 58 commands"}
+{"level":30,"time":1691860857363,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Loaded 39 slash commands"}
+{"level":30,"time":1691860857364,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691860857392,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691860857394,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691860857394,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691860858016,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691860859057,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691860859058,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691860863883,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691860865781,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691860866919,"pid":3580,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691861034391,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691861034399,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691861034400,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691861034723,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691861035123,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691861035131,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691861035137,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691861035148,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691861035156,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691861035196,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691861035201,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691861035206,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691861035215,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691861035224,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691861035267,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691861035277,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691861035284,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691861035287,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691861035289,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691861035294,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691861035297,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691861035299,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691861035303,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691861035312,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691861035317,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691861035325,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691861035336,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691861035344,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691861035384,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691861035387,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691861035395,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691861035452,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 58 commands"}
+{"level":30,"time":1691861035452,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 39 slash commands"}
+{"level":30,"time":1691861035454,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691861035460,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691861035460,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691861035460,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691861035705,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691861036603,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691861036603,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691861038587,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691861040197,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691861041037,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691862683936,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691862683939,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691862683940,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691862684173,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691862684621,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691862684627,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691862684634,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691862684641,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691862684649,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691862684688,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691862684691,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691862684699,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691862684707,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691862684713,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691862684729,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691862684735,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691862684744,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691862684747,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691862684750,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691862684752,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691862684758,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691862684759,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691862684763,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691862684770,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691862684778,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691862684783,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691862684790,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691862684798,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691862684837,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691862684840,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691862684843,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691862684931,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Loaded 58 commands"}
+{"level":30,"time":1691862684931,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Loaded 39 slash commands"}
+{"level":30,"time":1691862684932,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691862684946,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691862684947,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691862684948,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691862685206,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691862686145,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691862686146,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691862691239,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691862693487,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691862694441,"pid":6460,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691862744603,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691862744607,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691862744608,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691862744851,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691862745170,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691862745175,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691862745184,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691862745193,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691862745198,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691862745232,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691862745235,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691862745242,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691862745250,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691862745254,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691862745270,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691862745275,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691862745282,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691862745284,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691862745287,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691862745291,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691862745294,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691862745297,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691862745302,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691862745306,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691862745311,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691862745316,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691862745325,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691862745333,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691862745370,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691862745374,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691862745379,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691862745405,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Loaded 51 commands"}
+{"level":30,"time":1691862745405,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1691862745405,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691862745411,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691862745412,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691862745413,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691862745645,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691862746408,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691862746409,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691862748093,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691862749894,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691862751907,"pid":4864,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691863818577,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691863818586,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691863818586,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691863820321,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691863822164,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691863822330,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691863822384,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691863822398,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691863822442,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691863822560,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691863822563,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691863822579,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691863822600,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691863822610,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691863822628,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691863822657,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691863822668,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691863822708,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691863822711,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691863822715,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691863822718,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691863822721,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691863822726,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691863822740,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691863822747,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691863822753,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691863822763,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691863822769,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691863822820,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691863822823,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691863822826,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691863822861,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Loaded 51 commands"}
+{"level":30,"time":1691863822861,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1691863822862,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691863822870,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691863822871,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691863822871,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691863823329,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691863824415,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691863824415,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691863827765,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691863829395,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691863830150,"pid":7100,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691863991758,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691863991764,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691863991765,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691863992309,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691863994119,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691863994125,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691863994133,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691863994176,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691863994181,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691863994259,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691863994262,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691863994280,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691863994289,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691863994294,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691863994318,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691863994325,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691863994331,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691863994335,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691863994340,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691863994343,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691863994346,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691863994348,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691863994352,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691863994359,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691863994363,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691863994368,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691863994379,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691863994386,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691863994434,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691863994437,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691863994440,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691863994466,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Loaded 51 commands"}
+{"level":30,"time":1691863994466,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1691863994468,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691863994475,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691863994475,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691863994476,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691863994697,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691863995686,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691863995687,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691863998106,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691864000602,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691864001502,"pid":1052,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691864372276,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691864372331,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691864372331,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691864372855,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691864373401,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691864373404,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691864373411,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691864373422,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691864373428,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691864373463,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691864373465,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691864373471,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691864373484,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691864373490,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691864373507,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691864373513,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691864373531,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691864373534,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691864373538,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691864373540,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691864373542,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691864373546,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691864373549,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691864373554,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691864373559,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691864373567,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691864373575,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691864373581,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691864373629,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691864373631,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691864373635,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691864373659,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Loaded 51 commands"}
+{"level":30,"time":1691864373660,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1691864373660,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691864373666,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691864373667,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691864373667,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691864373880,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691864374730,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691864374730,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691864376727,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691864378373,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691864379081,"pid":7872,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691864674727,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691864674731,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691864674731,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691864674926,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691864675183,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691864675185,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691864675190,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691864675198,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691864675202,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691864675224,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691864675226,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691864675230,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691864675237,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691864675240,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691864675256,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691864675260,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691864675265,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691864675267,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691864675269,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691864675270,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691864675272,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691864675274,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691864675277,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691864675280,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691864675285,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691864675287,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691864675293,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691864675296,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691864675321,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691864675323,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691864675325,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691864675341,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Loaded 51 commands"}
+{"level":30,"time":1691864675342,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1691864675342,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691864675348,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691864675348,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691864675349,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691864675485,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691864676296,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691864676297,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691864678359,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691864680563,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691864681299,"pid":1084,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691864720370,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691864720374,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691864720374,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691864720604,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691864720939,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691864720944,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691864720952,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691864720961,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691864720966,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691864720998,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691864721001,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691864721006,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691864721013,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691864721018,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691864721035,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691864721040,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691864721046,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691864721049,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691864721052,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691864721062,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691864721064,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691864721067,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691864721070,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691864721076,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691864721082,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691864721087,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691864721096,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691864721100,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691864721150,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691864721154,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691864721157,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691864721178,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Loaded 51 commands"}
+{"level":30,"time":1691864721178,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1691864721179,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691864721184,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691864721184,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691864721184,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691864721343,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691864722070,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691864722071,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691864723395,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691864725444,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691864726125,"pid":6116,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691866052365,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691866052369,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691866052370,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691866052616,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691866053034,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691866053041,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691866053066,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691866053079,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691866053089,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691866053125,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691866053129,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691866053135,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691866053145,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691866053151,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691866053176,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691866053183,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691866053192,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691866053194,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691866053200,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691866053203,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691866053206,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691866053209,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691866053212,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691866053222,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691866053227,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691866053232,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691866053240,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691866053246,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691866053292,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691866053295,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691866053301,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691866053326,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Loaded 51 commands"}
+{"level":30,"time":1691866053326,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1691866053327,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691866053334,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691866053335,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691866053335,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691866053650,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691866054687,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691866054687,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691866060455,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691866062159,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691866062910,"pid":7328,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691866303033,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691866303040,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691866303040,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691866303276,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691866303664,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691866303673,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691866303679,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691866303687,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691866303694,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691866303725,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691866303727,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691866303733,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691866303741,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691866303748,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691866303775,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691866303780,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691866303788,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691866303790,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691866303826,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691866303829,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691866303839,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691866303842,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691866303845,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691866303851,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691866303856,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691866303862,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691866303880,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691866303892,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691866304005,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691866304009,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691866304013,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691866304049,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Loaded 51 commands"}
+{"level":30,"time":1691866304049,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1691866304050,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691866304056,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691866304057,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691866304057,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691866304307,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691866305037,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691866305037,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691866307768,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691866309486,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691866310964,"pid":4616,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":50,"time":1691866321613,"pid":4616,"hostname":"DESKTOP-STI39UV","err":{"type":"ReferenceError","message":"EmbedBuilder is not defined","stack":"ReferenceError: EmbedBuilder is not defined\n    at module.exports (C:\\Users\\Andri Hermawan\\Desktop\\Bot Ridwan\\src\\events\\message\\messageCreate.js:18:45)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: EmbedBuilder is not defined"}
+{"level":30,"time":1691866365755,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691866365759,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691866365759,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691866366059,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691866366419,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691866366424,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691866366431,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691866366439,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691866366448,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691866366487,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691866366490,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691866366496,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691866366501,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691866366509,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691866366529,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691866366535,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691866366541,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691866366544,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691866366548,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691866366551,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691866366554,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691866366556,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691866366559,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691866366564,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691866366570,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691866366576,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691866366587,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691866366592,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691866366631,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691866366634,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691866366638,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691866366664,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Loaded 51 commands"}
+{"level":30,"time":1691866366664,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1691866366665,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691866366681,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691866366681,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691866366681,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691866366948,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691866367769,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691866367769,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691866369363,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691866371273,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691866371910,"pid":6308,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691866478176,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691866478183,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691866478183,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691866478385,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691866478654,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691866478658,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691866478662,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691866478669,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691866478674,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691866478699,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691866478700,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691866478706,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691866478712,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691866478715,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691866478729,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691866478732,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691866478736,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691866478740,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691866478740,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691866478744,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691866478745,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691866478747,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691866478751,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691866478753,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691866478758,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691866478763,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691866478770,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691866478775,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691866478827,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691866478829,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691866478831,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691866478851,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Loaded 51 commands"}
+{"level":30,"time":1691866478851,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1691866478851,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691866478855,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691866478856,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691866478856,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691866479009,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691866479726,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691866479727,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691866481177,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691866482749,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691866483455,"pid":1840,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691868960455,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691868960462,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691868960462,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691868960970,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691868964777,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691868964787,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691868964799,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691868964811,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691868964835,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691868964897,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691868964905,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691868964910,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691868965044,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691868965060,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691868965091,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691868965099,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691868965120,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691868965122,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691868965125,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691868965127,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691868965132,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691868965137,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691868965139,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691868965145,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691868965152,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691868965157,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691868965165,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691868965172,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691868965209,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691868965212,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691868965215,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691868965243,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Loaded 51 commands"}
+{"level":30,"time":1691868965244,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1691868965244,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691868965249,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691868965252,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691868965253,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691868965632,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691868966611,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691868966611,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691868971396,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691868977773,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691868978593,"pid":8112,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691870545588,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691870545598,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691870545598,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691870547104,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691870547775,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691870547780,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691870547796,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691870547829,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691870547837,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691870547913,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691870547916,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691870547926,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691870547931,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691870547936,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691870547956,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691870547959,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691870547965,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691870547966,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691870547970,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691870547972,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691870547974,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691870547975,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691870547977,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691870547995,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691870547998,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691870548005,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691870548010,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691870548014,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691870548042,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691870548044,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691870548046,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691870548065,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Loaded 51 commands"}
+{"level":30,"time":1691870548065,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1691870548066,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691870548070,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691870548071,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691870548071,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691870548237,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691870549346,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691870549346,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691870551714,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691870553731,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691870554429,"pid":312,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691871318629,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691871318632,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691871318632,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691871318827,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691871319138,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691871319143,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691871319152,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691871319158,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691871319164,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691871319191,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691871319194,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691871319198,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691871319207,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691871319211,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691871319227,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691871319234,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691871319238,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691871319240,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691871319242,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691871319244,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691871319249,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691871319251,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691871319252,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691871319259,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691871319268,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691871319270,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691871319277,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691871319281,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691871319323,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691871319329,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691871319334,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691871319357,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Loaded 51 commands"}
+{"level":30,"time":1691871319358,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1691871319358,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691871319362,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691871319362,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691871319364,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691871319534,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691871320271,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691871320271,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691871321547,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691871323415,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691871324352,"pid":6320,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691890550574,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691890550593,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691890550593,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691890551350,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691890551999,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691890552003,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691890552008,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691890552019,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691890552024,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691890552079,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691890552081,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691890552086,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691890552091,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691890552099,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691890552112,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691890552117,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691890552121,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691890552123,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691890552127,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691890552129,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691890552131,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691890552133,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691890552136,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691890552140,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691890552144,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691890552148,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691890552154,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691890552159,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691890552200,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691890552202,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691890552204,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691890552222,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Loaded 51 commands"}
+{"level":30,"time":1691890552223,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1691890552223,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691890552228,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691890552228,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691890552228,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691890552433,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691890553470,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691890553470,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691890556280,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691890558633,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691890560317,"pid":7648,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691890640353,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691890640357,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691890640357,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691890640584,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691890640860,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691890640865,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691890640871,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691890640877,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691890640881,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691890640907,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691890640911,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691890640915,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691890640921,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691890640929,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691890640949,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691890640959,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691890640972,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691890640979,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691890640983,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691890640985,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691890640988,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691890640989,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691890640993,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691890640997,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691890641001,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691890641005,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691890641011,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691890641018,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691890641046,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691890641047,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691890641050,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691890641069,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 50 commands"}
+{"level":30,"time":1691890641069,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 31 slash commands"}
+{"level":30,"time":1691890641069,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691890641072,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691890641074,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691890641074,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691890641490,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691890642410,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691890642411,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691890643948,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691890645828,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691890647405,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691890840956,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Guild Joined: Haruka Members: 20"}
+{"level":30,"time":1691890841840,"pid":3636,"hostname":"DESKTOP-STI39UV","msg":"Guild Left: Haruka Members: 19"}
+{"level":30,"time":1691892225244,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691892225247,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691892225247,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691892225412,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691892225638,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691892225642,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691892225647,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691892225657,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691892225662,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691892225688,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691892225689,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691892225694,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691892225700,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691892225703,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691892225717,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691892225721,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691892225725,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691892225727,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691892225730,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691892225732,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691892225734,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691892225737,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691892225740,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691892225748,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691892225751,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691892225755,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691892225762,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691892225765,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691892225799,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691892225801,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691892225802,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691892225826,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Loaded 50 commands"}
+{"level":30,"time":1691892225826,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Loaded 31 slash commands"}
+{"level":30,"time":1691892225827,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691892225831,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691892225832,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691892225832,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691892226041,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691892226745,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691892226746,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691892230197,"pid":5304,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691921824395,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691921824411,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691921824411,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691921825216,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691921827894,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691921827918,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691921827989,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691921828002,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691921828006,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691921828125,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691921828127,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691921828130,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691921828153,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691921828156,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691921828217,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691921828230,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691921828244,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691921828247,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691921828250,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691921828260,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691921828265,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691921828268,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691921828277,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691921828282,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691921828292,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691921828300,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691921828323,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691921828332,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691921828457,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691921828466,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691921828475,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691921828653,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Loaded 50 commands"}
+{"level":30,"time":1691921828653,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Loaded 31 slash commands"}
+{"level":30,"time":1691921828654,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691921828679,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691921828679,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691921828679,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691921829102,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":20,"time":1691921874895,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Url: https://api.github.com/repos/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":50,"time":1691921874896,"pid":7128,"hostname":"DESKTOP-STI39UV","err":{"type":"FetchError","message":"request to https://api.github.com/repos/saiteja-madha/discord-js-bot/releases/latest failed, reason: read ECONNRESET","stack":"FetchError: request to https://api.github.com/repos/saiteja-madha/discord-js-bot/releases/latest failed, reason: read ECONNRESET\n    at ClientRequest.<anonymous> (C:\\Users\\Andri Hermawan\\Desktop\\Bot Ridwan\\node_modules\\node-fetch\\lib\\index.js:1505:11)\n    at ClientRequest.emit (node:events:513:28)\n    at TLSSocket.socketErrorListener (node:_http_client:502:9)\n    at TLSSocket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","errno":"ECONNRESET","code":"ECONNRESET","name":"FetchError"},"msg":"getJson: request to https://api.github.com/repos/saiteja-madha/discord-js-bot/releases/latest failed, reason: read ECONNRESET"}
+{"level":50,"time":1691921874906,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Failed to check for bot updates"}
+{"level":30,"time":1691921874913,"pid":7128,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":50,"time":1691921952487,"pid":7128,"hostname":"DESKTOP-STI39UV","err":{"type":"Error","message":"querySrv ETIMEOUT _mongodb._tcp.cluster0.ctkgw.mongodb.net","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.ctkgw.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)","code":"ETIMEOUT","syscall":"querySrv","hostname":"_mongodb._tcp.cluster0.ctkgw.mongodb.net"},"msg":"Mongoose: Failed to connect to database: querySrv ETIMEOUT _mongodb._tcp.cluster0.ctkgw.mongodb.net"}
+{"level":30,"time":1691921989983,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691921989985,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691921989987,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691921990184,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691921990422,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691921990426,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691921990431,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691921990436,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691921990441,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691921990465,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691921990467,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691921990474,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691921990481,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691921990484,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691921990499,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691921990502,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691921990507,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691921990512,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691921990513,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691921990516,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691921990517,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691921990519,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691921990523,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691921990528,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691921990530,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691921990536,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691921990545,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691921990548,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691921990580,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691921990585,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691921990587,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691921990609,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 50 commands"}
+{"level":30,"time":1691921990609,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 31 slash commands"}
+{"level":30,"time":1691921990610,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691921990615,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691921990615,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691921990616,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691921990778,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691921992526,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691921992534,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691921994744,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691921996525,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691921997902,"pid":7636,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
+{"level":30,"time":1691922135265,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691922135270,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691922135271,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691922135688,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691922136105,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691922136110,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691922136122,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691922136137,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691922136151,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691922136199,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691922136206,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691922136209,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691922136216,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691922136222,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691922136237,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691922136242,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691922136250,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691922136254,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691922136257,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691922136260,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691922136265,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691922136267,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691922136273,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691922136276,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691922136280,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691922136286,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691922136293,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691922136296,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691922136322,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691922136325,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691922136328,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1691922136348,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Loaded 50 commands"}
+{"level":30,"time":1691922136348,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Loaded 31 slash commands"}
+{"level":30,"time":1691922136348,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691922136352,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691922136352,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691922136353,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691922136490,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691922137139,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1691922137140,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691922147500,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1691922161998,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691922165339,"pid":2012,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}

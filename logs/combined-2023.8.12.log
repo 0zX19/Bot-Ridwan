@@ -1,0 +1,74 @@
+{"level":30,"time":1691859269514,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Validating config file and environment variables"}
+{"level":40,"time":1691859269521,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1691859269522,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1691859269782,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Loading commands..."}
+{"level":20,"time":1691859270255,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1691859270259,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1691859270262,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1691859270265,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1691859273137,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1691859273145,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1691859273149,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1691859273153,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1691859273201,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1691859273206,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1691859273217,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1691859273231,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1691859273237,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1691859273287,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1691859273290,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1691859273300,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1691859273315,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1691859273319,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1691859273372,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1691859273378,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1691859273385,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1691859273386,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1691859273391,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1691859273395,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1691859273399,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1691859273402,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1691859273407,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1691859273415,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1691859273418,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1691859273424,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1691859273436,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1691859273440,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1691859273490,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1691859273497,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1691859273505,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1691859273507,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1691859273518,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1691859273521,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1691859273524,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1691859273531,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1691859273534,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1691859273537,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1691859273539,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1691859273546,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1691859273551,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1691859273553,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1691859273556,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1691859273563,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1691859273577,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping command rep. Disabled!"}
+{"level":20,"time":1691859273583,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1691859273590,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1691859273594,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1691859273597,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1691859273602,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1691859273610,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":20,"time":1691859273620,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1691859273623,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1691859273670,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Loaded 72 commands"}
+{"level":30,"time":1691859273670,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Loaded 54 slash commands"}
+{"level":30,"time":1691859273672,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Loading contexts..."}
+{"level":30,"time":1691859273676,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1691859273677,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1691859273677,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Loading events..."}
+{"level":30,"time":1691859273837,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1691859273837,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1691859279987,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Mongoose: Database connection established"}
+{"level":40,"time":1691859280548,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"VersionCheck: 5.4.0 update is available"}
+{"level":40,"time":1691859280548,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1691859282804,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Logged in as Haruka TESTER#6563! (854172168836481084)"}
+{"level":30,"time":1691859283752,"pid":128,"hostname":"DESKTOP-STI39UV","msg":"Successfully registered interactions"}
